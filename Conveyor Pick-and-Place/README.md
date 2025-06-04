@@ -19,5 +19,7 @@ A basic FANUC robotic arm programmed in RoboGuide to pick boxes from a conveyor 
 
 ![image](https://github.com/user-attachments/assets/e4bc3330-02fb-45d2-aa2a-490d6d42f3a2)
 
+![Untitledvideo-MadewithClipchamp-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/67488eeb-ec29-404a-97d9-8ea54dd411cd)
+
 ![image](https://github.com/user-attachments/assets/3ffa1850-af28-40e1-9f67-c47f669bbd56)
 
