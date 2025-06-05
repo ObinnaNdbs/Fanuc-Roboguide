@@ -5,6 +5,7 @@ This repository contains a series of industrial robotics simulations created usi
 ## ✅ Completed Projects
 
 - [Coveyor Pick and Place System](https://github.com/ObinnaNdbs/Fanuc-Roboguide/tree/main/Conveyor%20Pick-and-Place)
+![image](https://github.com/user-attachments/assets/74dd1639-8d90-4dd8-a700-26b99552f4a0)
 
 ## 📅 Upcoming Projects
 
