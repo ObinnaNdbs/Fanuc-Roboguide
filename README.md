@@ -26,11 +26,8 @@ Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on
 
 - [BasketBot](https://github.com/ObinnaNdbs/Fanuc-Roboguide/tree/main/BasketBot)
 
-- **REAL DEMO**
-
 ![Untitled video - Made with Clipchamp (1) (1)](https://github.com/user-attachments/assets/a52b0a40-c2c1-47fc-a4a9-b8b800c930db)
 
-- **SIMULATION**
 ![Untitled video - Made with Clipchamp (2) (1)](https://github.com/user-attachments/assets/c5aaf15e-46ff-4076-a0ca-45a11752e705)
 
 - **Goal:** Demonstrate coordinated motion between two FANUC arms to follow a path on a curved surface.
