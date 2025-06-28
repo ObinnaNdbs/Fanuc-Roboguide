@@ -1,5 +1,7 @@
 # 🤖 BASKETBOT: FANUC Dual-Arm Coordinated Motion with CAD-to-Path & Vision Integration
 
+![Untitled video - Made with Clipchamp (1) (1)](https://github.com/user-attachments/assets/a52b0a40-c2c1-47fc-a4a9-b8b800c930db)
+
 Welcome to an advanced industrial robotics simulation showcasing a fully coordinated dual-arm system in FANUC RoboGuide. This project demonstrates a synchronized multi-robot workflow featuring pick-and-place, welding tool calibration, iRVision integration, and CAD-to-path execution on a 3D basketball model.
 
 ---
