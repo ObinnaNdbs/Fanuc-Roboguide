@@ -1,4 +1,4 @@
-# 🤖 FANUC RoboGuide Automation Series – Complete Industrial Robotics Projects
+# 🤖 FANUC RoboGuide Automation Series
 
 Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on industrial robotic simulations using **FANUC HandlingPRO**. This repository contains two major projects that reflect real-world automation logic, control systems, and digital I/O integration. These projects were designed, built, and programmed entirely by me during FANUC's free trial period — huge thanks to **FANUC** for providing access to such a powerful toolset!
 
