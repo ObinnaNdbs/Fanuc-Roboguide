@@ -9,7 +9,8 @@ Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on
 ### 1. **Smart Palletizing with Conveyor Sync**
 
 - [Coveyor Pick and Place System](https://github.com/ObinnaNdbs/Fanuc-Roboguide/tree/main/Conveyor%20Pick-and-Place)
-![image](https://github.com/user-attachments/assets/74dd1639-8d90-4dd8-a700-26b99552f4a0)
+
+![Untitledvideo-MadewithClipchamp-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/67488eeb-ec29-404a-97d9-8ea54dd411cd)
 
 - **Goal:** Simulate a realistic pick-and-place operation with XY palletizing and I/O-controlled conveyors.
 - **Features:**
@@ -20,13 +21,17 @@ Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on
   - Curved conveyor added for enhanced realism.
   - I/O Digital Output sync with conveyor and part detection.
     
-![Untitledvideo-MadewithClipchamp-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/67488eeb-ec29-404a-97d9-8ea54dd411cd)
-
 
 ### 2. **Basketball Dual-Arm Coordinated Motion**
 
 - [BasketBot](https://github.com/ObinnaNdbs/Fanuc-Roboguide/tree/main/BasketBot)
-![image](https://github.com/user-attachments/assets/d76bf6ae-9847-4ab3-867c-b1e8a38e3ee3)
+
+- **REAL DEMO**
+
+![Untitled video - Made with Clipchamp (1) (1)](https://github.com/user-attachments/assets/a52b0a40-c2c1-47fc-a4a9-b8b800c930db)
+
+- **SIMULATION**
+![Untitled video - Made with Clipchamp (2) (1)](https://github.com/user-attachments/assets/c5aaf15e-46ff-4076-a0ca-45a11752e705)
 
 - **Goal:** Demonstrate coordinated motion between two FANUC arms to follow a path on a curved surface.
 - **Features:**
@@ -36,14 +41,6 @@ Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on
   - Set up UFRAMEs, UTOOLs, and PRs for accurate contact control.
   - Verified CD motion by jogging both arms and executing synchronized tasks.
   - Main program controlled call hierarchy and monitored completion status.
-
-- **REAL DEMO**
-  
-![Untitled video - Made with Clipchamp (1) (1)](https://github.com/user-attachments/assets/a52b0a40-c2c1-47fc-a4a9-b8b800c930db)
-
-- **SIMULATION**
-  
-![Untitled video - Made with Clipchamp (2) (1)](https://github.com/user-attachments/assets/c5aaf15e-46ff-4076-a0ca-45a11752e705)
 
 
 ---
