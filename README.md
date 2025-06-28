@@ -10,6 +10,7 @@ Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on
 
 - [Coveyor Pick and Place System](https://github.com/ObinnaNdbs/Fanuc-Roboguide/tree/main/Conveyor%20Pick-and-Place)
 ![image](https://github.com/user-attachments/assets/74dd1639-8d90-4dd8-a700-26b99552f4a0)
+
 - **Goal:** Simulate a realistic pick-and-place operation with XY palletizing and I/O-controlled conveyors.
 - **Features:**
   - Box detection and pickup from a straight conveyor.
@@ -20,7 +21,9 @@ Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on
   - I/O Digital Output sync with conveyor and part detection.
 
 ### 2. **Basketball Dual-Arm Coordinated Motion**
-> `Project: Coordinated Robot Writing on 3D Basketball`
+
+- [BasketBot](https://github.com/ObinnaNdbs/Fanuc-Roboguide/tree/main/BasketBot)
+![image](https://github.com/user-attachments/assets/d76bf6ae-9847-4ab3-867c-b1e8a38e3ee3)
 
 - **Goal:** Demonstrate coordinated motion between two FANUC arms to follow a path on a curved surface.
 - **Features:**
