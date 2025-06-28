@@ -19,6 +19,9 @@ Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on
   - Loop control via register `R[2]`.
   - Curved conveyor added for enhanced realism.
   - I/O Digital Output sync with conveyor and part detection.
+    
+![Untitledvideo-MadewithClipchamp-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/67488eeb-ec29-404a-97d9-8ea54dd411cd)
+
 
 ### 2. **Basketball Dual-Arm Coordinated Motion**
 
@@ -33,6 +36,15 @@ Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on
   - Set up UFRAMEs, UTOOLs, and PRs for accurate contact control.
   - Verified CD motion by jogging both arms and executing synchronized tasks.
   - Main program controlled call hierarchy and monitored completion status.
+
+- **REAL DEMO**
+  
+![Untitled video - Made with Clipchamp (1) (1)](https://github.com/user-attachments/assets/a52b0a40-c2c1-47fc-a4a9-b8b800c930db)
+
+- **SIMULATION**
+  
+![Untitled video - Made with Clipchamp (2) (1)](https://github.com/user-attachments/assets/c5aaf15e-46ff-4076-a0ca-45a11752e705)
+
 
 ---
 
