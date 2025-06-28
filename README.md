@@ -41,14 +41,20 @@ Welcome to my **FANUC RoboGuide Automation Series**, a full showcase of hands-on
 | Category                   | Tools & Features Used |
 |---------------------------|-----------------------|
 | **Robot Control**         | TP Programming, Linear/Joint Moves, Registers (R), Position Registers (PR), UTOOL, UFRAME |
-| **I/O & Automation**      | Digital I/O (DO/DI), I/O Panel Mapping, I/O-triggered conveyor simulation |
-| **Palletizing**           | Place Parts Utility, PR offset calculation, pallet layout grid |
-| **Conveyor Sync**         | Motion I/O logic, curved + straight conveyors, timing coordination |
-| **Multi-Robot Systems**   | Coordinated Motion (CD_Pairs), multi-group setup, robot calibration |
-| **CAD Integration**       | Onshape modeling, CAD-to-Path tool, surface tracing on 3D geometry |
-| **Workcell Design**       | Fixtures, Machines, Obstacles, Part Traces, TCP setup |
-| **Debugging**             | Step/Run/Hold logic, cycle timers, conditional logic (IF/JMP), program tracing |
-| **Simulation Programming**| Program Hierarchy (CALL), LBLs, MESSAGE alerts, WAIT instructions |
+| **Palletizing**           | Place Parts Utility, PR offset logic, grid-based layout (2x2), dynamic offsets via registers |
+| **I/O & Automation**      | Digital I/O (DO/DI), I/O Panel Mapping, I/O-triggered part flow, device-controlled conveyors |
+| **Conveyor Sync**         | Straight + curved conveyor setup, motion linking, shared signal coordination |
+| **Multi-Robot Systems**   | Coordinated Motion (CD_Pairs), leader/follower control, multi-group sync and jogging |
+| **Robot Coordination**    | Jog verification, CD_pair calibration, simultaneous dual-arm execution |
+| **Welding Applications**  | Tool frame setup for gas nozzle, weld torch alignment, support for butt, T-joint, weave patterns |
+| **Vision Systems**        | iRVision 2D setup, grid calibration (CalGrid 30mm), VMCAL alignment, intro to 3D vision coordination |
+| **CAD Integration**       | Onshape modeling, basketball with grooves, CAD-to-Path trajectory generation and reverse path logic |
+| **Path Planning**         | Auto TP generation, smooth seam-following, contour matching, CNT blending |
+| **Safety & Collision**    | Safety shell configuration, collision zone simulation, bounding boxes, stop-on-entry logic |
+| **Workcell Design**       | Structured layout with fixtures, machine links, accurate part and frame placement |
+| **Program Structure**     | MAIN program logic, CALL hierarchies, loop control with registers, LBLs, MESSAGE, WAIT |
+| **Debugging Techniques**  | Step/run mode, register monitoring, WAIT timing, jog testing, timer-based optimization |
+| **Simulation Efficiency** | Realistic part behavior, tool calibration, part spawning logic, auto-repeat cycle flows |
 
 ---
 
